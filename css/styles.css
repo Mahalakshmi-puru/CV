@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: gray;
+    width: 5%;
+}
+
+h3 {
+    color: rgb(214, 122, 127);
+}
+
+h2 {
+    color: rgb(214, 122, 127);
+}
+
+h1 {
+    color: rgb(214, 122, 127);
+}
+
+a {
+    color: rgb(214, 122, 127);
+}
+
+.Con {
+    font-style: italic;
+}
+
+#Edu:hover {
+    color: orange;
+}
